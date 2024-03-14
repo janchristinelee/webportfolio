@@ -1,0 +1,37 @@
+.nav-bg {
+	background-color: #85307F;
+}
+
+.quote {
+	font-size: 0.90rem;
+}
+
+.title {
+ 	font-family: "Arvo", serif;
+}
+
+body {
+	font-family: "Lato", sans-serif;
+}
+
+.primary-bg {
+	background-color: #CFA5CC;
+}
+
+.accent {
+	background-color: #85307F;
+}
+
+.secondary-bg {
+	background-color: #241C2A;
+}
+
+.black-bg {
+	background-color: #000000;
+}
+
+.map {
+	width: 100%;
+	height: 90%;
+	border: 0;
+}
